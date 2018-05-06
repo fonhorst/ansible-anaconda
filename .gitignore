@@ -2,3 +2,5 @@
 Dockerfile.*
 requirements.yml
 xssh
+*.iml
+.idea
